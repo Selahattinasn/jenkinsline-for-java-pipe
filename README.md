@@ -1,0 +1,1 @@
+# jenkinsline-for-java-pipe
